@@ -24,25 +24,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Peimin Chen"
-  pronouns         : "she"  
+  name             : "Peimin Chen"  
   bio              : "Ph.D. Student"
   location         : "Zhuhai, China"
   employer         : "Sun Yat-sen University"
-  uri              : # URL
   email            : "chenpm6@mail2.sysu.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : https://scholar.google.com/citations?user=Peimin Chen
+  researchgate     : https://www.researchgate.net/profile/Peimin-Chen-2?ev=hdr_xprf
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
