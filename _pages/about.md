@@ -26,10 +26,22 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 - **B.Eng. in Surveying and Mapping Engineering, Guangdong University of Technology**  
   *Faculty of Civil and Transportation Engineering, 2016–2020*
-  
+
 ---
 
-# <span style="color:#002282">🏆 Recent Awards</span>
+# <span style="color:#002282">🎤 Academic Activities</span>
+
+[2025] NSF NCAR Research Symposium: Human and Geographic Dimensions of Extreme Heat and Heat Risk, Boulder, USA — Oral Presentation
+
+[2024] National Doctoral Forum on Surveying, Mapping and Remote Sensing Science and Technology, Zhuhai, China — Oral Presentation
+
+[2023] IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Los Angeles, USA — Oral Presentation
+
+[2022] Graduate Academic Forum of Journal of Remote Sensing, Online — Oral Presentation
+
+---
+
+# <span style="color:#002282">🏆 Awards</span>
 ## Honors & Scholarships
 
 [2025] President’s Scholarship for Ph.D. Students, Sun Yat-sen University.
@@ -51,4 +63,13 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 [2024] Second Prize for Excellent Presentation, National Doctoral Forum on Surveying, Mapping and Remote Sensing Science and Technology.
 
 [2023] Outstanding Achievement Award, High-resolution Earth Observation Project (GF Special Program).
+ 
+---
+
+# <span style="color:#002282">📫 Contact</span>
+
+I enjoy academic conversations and idea exchange with others! Please feel free to contact me via Email or WeChat.
+
+Email: chenpm6@mail2.sysu.edu.cn
+WeChat: Ccpp19971217
 
