@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Zhuhai-China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Peimin Chen"
+title                    : "<span style="color:#002282">Peimin Chen (陈佩敏)</span>"
 title_separator          : "-"
 name                     : &name "Peimin Chen"
 description              : &description "Peimin's academic portfolio" 
