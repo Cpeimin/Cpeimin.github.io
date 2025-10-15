@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <span style="color:#001D71">👋 About Me</span>
+title: <span style="color:#002282">👋 About Me</span>
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 ---
 
-# <span style="color:#001D71">🎓 Education</span>
+# <span style="color:#002282">🎓 Education</span>
 
 - **Visiting Scholar, University of California, Berkeley**  
   *Department of Landscape Architecture and Environmental Planning, 2025–Present*
