@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-.page__content h1, .page__content h2 { color:#007acc; }
-</style>
 
 Hi there! I am a visiting student at UC Berkeley, working with Pro. Lu Liang in the Geospatial 3M Lab. I am also a Ph.D. candidate in the School of Geospatial Engineering and Science, Sun Yat-sen University, advised by Prof. Huabing Huang. 
 
