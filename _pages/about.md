@@ -29,7 +29,7 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 ---
 
-# <span style="color:#002282">🎤 Academic Activities</span>
+# <span style="color:#002282">🌏 Academic Activities</span>
 
 [2025] NSF NCAR Research Symposium: Human and Geographic Dimensions of Extreme Heat and Heat Risk, Boulder, USA — Oral Presentation
 
