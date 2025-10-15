@@ -29,7 +29,7 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
   
 ---
 
-# <span style="color:#002282">🏆 Awards</span>
+# <span style="color:#002282">🏆 Recent Awards</span>
 Honors & Scholarships
 
 [2025] President’s Scholarship for Ph.D. Students, Sun Yat-sen University.
