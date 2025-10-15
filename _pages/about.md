@@ -13,16 +13,18 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-- **Visiting Scholar**, [University of California, Berkeley](https://www.berkeley.edu/),  
-  Department of Landscape Architecture and Environmental Planning (Advisor: [Dr. Lu Liang](https://laep.berkeley.edu/people/lu-liang/)), *2025–Present*
+- **Visiting Scholar, University of California, Berkeley**  
+  *Department of Landscape Architecture and Environmental Planning, 2025–Present*
 
-- **Ph.D. Candidate**, [School of Geospatial Engineering and Science](https://rsst.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)  
-  Advisor: [Prof. Huabing Huang](https://rsst.sysu.edu.cn/teacher/huanghuabing), *2022–Present*
+- **Ph.D. Candidate, Sun Yat-sen University**
+  *School of Geospatial Engineering and Science, 2022–Present*
 
-- **M.Sc. in Resource and Environmental Science**, [Sun Yat-sen University](https://www.sysu.edu.cn/), *2020–2022*
+- **M.Sc. in Resource and Environmental Science, Sun Yat-sen University**
+  *School of Geospatial Engineering and Science, 2020–2022*
 
-- **B.Eng. in Surveying and Mapping Engineering**, [Guangdong University of Technology](https://www.gdut.edu.cn/), *2016–2020*
+- **B.Eng. in Surveying and Mapping Engineering, Guangdong University of Technology**
+  *Faculty of Civil and Transportation Engineering, 2016–2020*
 
 
