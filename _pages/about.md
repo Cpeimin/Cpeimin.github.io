@@ -13,7 +13,7 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 - **Visiting Scholar, University of California, Berkeley**  
   *Department of Landscape Architecture and Environmental Planning, 2025–Present*
