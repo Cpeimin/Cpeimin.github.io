@@ -31,13 +31,13 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 # <span style="color:#002282">🌏 Academic Activities</span>
 
-[2025] NSF NCAR Research Symposium: Human and Geographic Dimensions of Extreme Heat and Heat Risk, Boulder, USA — Oral Presentation
+[2025] NSF NCAR Research Symposium: Human and Geographic Dimensions of Extreme Heat and Heat Risk. Boulder, USA — **Oral Presentation**
 
-[2024] National Doctoral Forum on Surveying, Mapping and Remote Sensing Science and Technology, Zhuhai, China — Oral Presentation
+[2024] National Doctoral Forum on Surveying, Mapping and Remote Sensing Science and Technology. Zhuhai, China — **Oral Presentation**
 
-[2023] IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Los Angeles, USA — Oral Presentation
+[2023] IEEE International Geoscience and Remote Sensing Symposium (IGARSS). Los Angeles, USA — **Oral Presentation**
 
-[2022] Graduate Academic Forum of Journal of Remote Sensing, Online — Oral Presentation
+[2022] Graduate Academic Forum of Journal of Remote Sensing. Online — **Oral Presentation**
 
 ---
 
