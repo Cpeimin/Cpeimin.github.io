@@ -12,8 +12,7 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/       
         
   - title: "Datasets"
     url: /datasets/
