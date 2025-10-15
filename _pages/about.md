@@ -30,18 +30,25 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 ---
 
 # <span style="color:#002282">🏆 Recent Awards</span>
-Honors & Scholarships
+# Honors & Scholarships
 
 [2025] President’s Scholarship for Ph.D. Students, Sun Yat-sen University.
+
 [2025] Scholarship for Overseas Research & Collaboration of Ph.D. Students, Sun Yat-sen University.
+
 [2024] National Scholarship for Ph.D. Students, Ministry of Education of China.
+
 [2024] President’s Scholarship for Ph.D. Students, Sun Yat-sen University.
+
 [2023] First-Class Scholarship for Ph.D. Students, Sun Yat-sen University.
+
 [2022] First-Class Scholarship for Ph.D. Students, Sun Yat-sen University.
 
-Competitions & Achievements
+# Competitions & Achievements
 
 [2025] Second Prize, The first National Competition on Land Surface Resource Management and Geoinformation Technology Application.
+
 [2024] Second Prize for Excellent Presentation, National Doctoral Forum on Surveying, Mapping and Remote Sensing Science and Technology.
+
 [2023] Outstanding Achievement Award, High-resolution Earth Observation Project (GF Special Program).
 
