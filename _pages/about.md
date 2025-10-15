@@ -66,11 +66,5 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
  
 ---
 
-# <span style="color:#002282">📫 Contact</span>
 
-I enjoy academic conversations and idea exchange with others! Please feel free to contact me via Email or WeChat.
-
-Email: chenpm6@mail2.sysu.edu.cn
-
-WeChat: Ccpp19971217
 
