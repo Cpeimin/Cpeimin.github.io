@@ -5,16 +5,16 @@ layout: single
 author_profile: true
 ---
 
-### 🏙️ 30 m China Multi-Temporal Built-up Height (**CMTBH-30**)
+###👉 30 m China Multi-Temporal Built-up Height (**CMTBH-30**)
 
-CMTBH-30 was developed using the MTBH-Net deep learning network, incorporating GEDI L2A V2 as height labels and Landsat and PALSAR as input features.  
+The CMTBH-30 was developed using the MTBH-Net deep learning network, incorporating GEDI L2A V2 as height labels and Landsat and PALSAR as input features.  
 
 **📥 Download:** [https://data-starcloud.pcl.ac.cn/iearthdata/](https://data-starcloud.pcl.ac.cn/iearthdata/)  
 **📖 Reference:** Chen P, Huang H, Qin P, *et al.* Characterizing dynamics of building height in China from 2005 to 2020 based on GEDI, Landsat, and PALSAR data. *Remote Sensing of Environment*, 2025, 325: 114776.
 
 ---
 
-### 🏠 Building Roof Datasets for Typical Chinese Cities
+###👉 Building Roof Datasets for Typical Chinese Cities
 
 The building roof semantic segmentation dataset was created through manual digitalization, characterized by a spatial resolution of 0.65 m and covering an area of 573.17 km². The dataset includes 5,175 pairs of 512 × 512 image tiles with red, green, blue, and near-infrared bands.  
 
