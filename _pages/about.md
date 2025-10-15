@@ -18,13 +18,13 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 - **Visiting Scholar, University of California, Berkeley**  
   *Department of Landscape Architecture and Environmental Planning, 2025–Present*
 
-- **Ph.D. Candidate, Sun Yat-sen University**
+- **Ph.D. Candidate, Sun Yat-sen University**  
   *School of Geospatial Engineering and Science, 2022–Present*
 
-- **M.Sc. in Resource and Environmental Science, Sun Yat-sen University**
+- **M.Sc. in Resource and Environmental Science, Sun Yat-sen University**  
   *School of Geospatial Engineering and Science, 2020–2022*
 
-- **B.Eng. in Surveying and Mapping Engineering, Guangdong University of Technology**
+- **B.Eng. in Surveying and Mapping Engineering, Guangdong University of Technology**  
   *Faculty of Civil and Transportation Engineering, 2016–2020*
 
 
