@@ -9,28 +9,33 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+第一作者/导师一作、本人二作
+[1] Chen P, Huang H, Qin P, et al. Characterizing dynamics of building height in China from 2005 to 2020 based on GEDI, Landsat, and PALSAR data [J]. Remote Sensing of Environment, 2025, 325: 114776.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+[2] Chen P, Huang H, Qin P, et al. Unveiling the performance and influential factors of GEDI L2A for building height retrieval [J]. GIScience & Remote Sensing, 2025, 62(1): 2498785.
+
+[3] Chen P, Huang H, Liang L, et al. Progress and perspectives of building height estimation with remote sensing: a review. Remote Sensing of Environment, 2025, Under review.
+
+[4] Chen P, Huang H, Ye F, et al. A benchmark GaoFen-7 dataset for building extraction from satellite images[J]. Scientific Data, 2024, 11(1): 187.
+
+[5] Chen P, Huang H, Liu J, et al. Leveraging Chinese GaoFen-7 imagery for high-resolution building height estimation in multiple cities[J]. Remote Sensing of Environment, 2023, 298: 113802.
+
+[6] Huang H, Chen P, Xu X, et al. Estimating building height in China from ALOS AW3D30[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 185: 146-157.
+合作论文
+[1] Liu J, Hou X, Huang H, Chen P, et al. Transformation of aquatic vegetation in Chinese lakes from 1988 to 2023[J]. Remote Sensing of Environment, 2025, 330: 114999.
+
+[2] Liu X, Huang H, Wang D, Wu Z, Chen P, et al. Robust multi-source forest point cloud registration with distribution similarity analysis[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
+
+[3] Wang Z, Zhang X, Lei R, Yang F, Chen P. How would urban green spaces diverge under different development strategies? Comparison between Shenzhen and Zhuhai[J]. Land Use Policy, 2025, 159: 107790. 
+
+[4] Qin P, Huang H, Chen P, et al. Reconstructing NDVI time series in cloud-prone regions: A fusion-and-fit approach with deep learning residual constraint[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2024, 218: 170-186.
+
+[5] Xu Y, Ding S, Chen P, et al. Horizontal geolocation error evaluation and correction on full-waveform LiDAR footprints via waveform matching[J]. Remote Sensing, 2023, 15(3): 776.
+
+[6] Hu J, Huang H, Chi Z, Cheng X, Wei Z, Chen P, et al. Distribution and evolution of Supraglacial lakes in Greenland during the 2016–2018 melt seasons[J]. Remote Sensing, 2021, 14(1): 55.
+
+
+
 
 
 
