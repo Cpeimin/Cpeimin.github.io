@@ -66,5 +66,11 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
  
 ---
 
+# <span style="color:#002282">✨ Hobbies & Interests</span>
+
+My MBTI personality type is **ISTJ** — I enjoin executing research tasks step by step 📚.
+
+I enjoy **traveling and photography** 📷, and I’m more drawn to nature than to cities. My favorite place is **Hawaii’s Big Island** 🌋🌊.
+
 
 
