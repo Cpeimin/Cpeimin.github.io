@@ -70,7 +70,7 @@ I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dyna
 
 - My MBTI personality type is **ISTJ** (quiet, practical, and organized), and I like to execute research tasks step by step 📚.
 
-- I enjoy **traveling and photography** 📷, and I’m more drawn to nature than to cities. My favorite place is **Hawaii’s Big Island** 🌋🌊.
+- I enjoy **traveling and photography** 📷, and I’m more drawn to nature than to cities. My favorite place is Hawaii Big Island 🌋🌊.
 
 
 
