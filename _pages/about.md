@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a visiting student at UC Berkeley, working with Pro. Lu Liang in the Geospatial 3M Lab. I am also a Ph.D. candidate in the School of Geospatial Engineering and Science, Sun Yat-sen University, advised by Prof. Huabing Huang. 
+Hi there! I am currently a visiting student at UC Berkeley, working with Prof. Lu Liang in the [Geospatial 3M Lab](https://sites.google.com/site/liang3mlab/home). I am also a Ph.D. candidate in the School of Geospatial Engineering and Science, Sun Yat-sen University, advised by [Prof. Huabing Huang](https://sges.sysu.edu.cn/teacher/207).
+
 
 I mainly use remote sensing, GIS, and geospatial AI to explore the urban 3D dynamics, focusing on **building height estimation**, **large-scale urban 3D mapping**, and **embodied carbon analysis of urban expansion**. 
 
