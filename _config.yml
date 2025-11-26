@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CPM2.png"
+  avatar           : "CPM3.png"
   name             : "Peimin Chen"  
   bio              : "Ph.D. Candidate"
   location         : "Zhuhai, China"
